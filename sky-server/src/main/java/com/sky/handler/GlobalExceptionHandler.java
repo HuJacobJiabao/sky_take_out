@@ -1,7 +1,6 @@
 package com.sky.handler;
 
 import com.sky.constant.MessageConstant;
-import com.sky.constant.StatusConstant;
 import com.sky.exception.BaseException;
 import com.sky.result.Result;
 import lombok.extern.slf4j.Slf4j;
